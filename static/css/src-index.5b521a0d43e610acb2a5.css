@@ -1,0 +1,1 @@
+.rc-map{position:absolute;z-index:0;top:0;right:0;bottom:0;left:0;overflow:hidden;background:transparent}.rc-map.dark .layersDiv>div:first-child{-webkit-filter:grayscale() invert(1) contrast(.7) sepia() hue-rotate(180deg) brightness(.6);filter:grayscale() invert(1) contrast(.7) sepia() hue-rotate(180deg) brightness(.6)}
